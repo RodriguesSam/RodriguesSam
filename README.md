@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="50"/> 
 
 ## Projetos ✍🏾
-Acesse o [meu protifolio](https://github.com/samuelrodrigues-ceub/portifolioHUB) para dar uma olhada no que eu fiz até agora! 😉
+Acesse o [meu portifolio](https://github.com/samuelrodrigues-ceub/portifolioHUB) para dar uma olhada no que eu fiz até agora! 😉
 
 ## Entre em contato comigo! 🤝
 <div>
